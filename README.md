@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PlainsVillager
-- 👀 I’m interested in Minecraft-mod-develop and Java
-- 🌱 I’m currently learning C++ and python
+- 👀 I’m interested in Minecraft-mod-develop, C#, C++ and Java
+- 🌱 I’m currently learning sing,dance,rap,basketball
 - 💞️ I’m looking to collaborate on my codes
 
 My homepage: https://plainsvillager.github.io/
